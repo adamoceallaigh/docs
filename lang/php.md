@@ -30,6 +30,16 @@
 
 [conditionally add element to associative array](https://stackoverflow.com/questions/6477903/conditionally-add-associative-element-to-array)
 
+[date fn](https://www.w3schools.com/php/func_date_date.asp)
+
+[date_format fn](https://www.w3schools.com/php/func_date_date_format.asp)
+
+[date_create_from_format fn](https://www.w3schools.com/php/func_date_create_from_format.asp)
+
+[explode() fn: equivalent of JS str.split()](https://www.w3schools.com/php/func_string_explode.asp)
+
+[strval fn: same as .toString()](https://www.php.net/manual/en/function.strval.php)
+
 <br>
 
 Curl: Methods

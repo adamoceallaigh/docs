@@ -16,6 +16,8 @@
 
 [Mutation observer](https://www.youtube.com/watch?v=Mi4EF9K87aM)
 
+[Javascript tilde](https://wsvincent.com/javascript-tilde/#:~:text=In%20JavaScript%2C%20the%20tilde%20~%20Bitwise,a%20String%20object%20passed%20in.)
+
 [Implement linked lists w/ test driven development](https://www.youtube.com/watch?v=gJjPWA8wpQg)
 
 [Identifying through includes array of objects contains value](https://stackoverflow.com/questions/49187940/javascript-using-includes-to-find-if-an-array-of-objects-contains-a-specific)
@@ -87,6 +89,8 @@ sortMarkets(coreMarkets, marketFocus)
 
 [Parsing string to date](https://stackoverflow.com/questions/5619202/parsing-a-string-to-a-date-in-javascript)
 
+[Difference between script rendering and downloading w/ async and defer](https://stackoverflow.com/questions/10808109/script-tag-async-defer)
+
 [String.replace()](https://www.w3schools.com/jsref/jsref_replace.asp)
 
 [Array.slice() Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice)
@@ -97,7 +101,19 @@ sortMarkets(coreMarkets, marketFocus)
 
 [Array.splice() YT - Free Code Camp](https://www.youtube.com/watch?v=-8L4B5X-BFA)
 
+[Enums w/ symbols](https://www.sohamkamani.com/javascript/enums/?utm_content=cmp-true)
+
+[Symbols docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol)
+
+[Why does implicit Symbol to String conversion' lead to TypeError in JavaScript?](https://stackoverflow.com/questions/40944470/why-does-implicit-symbol-to-string-conversion-lead-to-typeerror-in-javascript)
+
+[Colt Steele: The Complete Guide to JS Symbols ES6](https://www.youtube.com/watch?v=4J5hnOCj69w)
+
 [Change element positions in array and shift elements in between](https://stackoverflow.com/questions/44932502/change-elements-positions-in-an-array-and-shift-elements-in-between)
+
+[update highlighted nav link upon scroll](http://jsfiddle.net/Ty_Yang/80t9p3n4/)
+
+[How can I detect the scrollTop of an element using Vanilla Javascript?](https://stackoverflow.com/a/50432070)
 
 [Array.findIndex(): Get index of object inside array matching condition](https://stackoverflow.com/questions/15997879/get-the-index-of-the-object-inside-an-array-matching-a-condition)
 
@@ -114,6 +130,10 @@ sortMarkets(coreMarkets, marketFocus)
 [YT: Implicit Parameters, whether to use or not?](https://www.youtube.com/watch?v=fwu3lLpgZsg)
 
 [W3Schools: array.findIndex fn](https://www.w3schools.com/jsref/jsref_findindex.asp)
+
+[How to get function parameter names/values dynamically?](https://stackoverflow.com/questions/1007981/how-to-get-function-parameter-names-values-dynamically)
+
+[How to console log the name of a variable/function?](https://stackoverflow.com/a/48087922)
 
 [Removing specific item from array](https://sentry.io/answers/remove-specific-item-from-array/)
 
@@ -176,38 +196,8 @@ Array Constructor: Predefined length
 
 [Junior vs senior React folder structure - how to organize React projects](https://www.youtube.com/watch?v=UUga4-z7b6s)
 
+[rendering "[object object]" if placed next to a concatenated text](https://react.dev/reference/react/Fragment)
 
-<br>
-
-`TypeScript`
-
-[Type can't be used as an index](https://bobbyhadz.com/blog/typescript-type-cannot-be-used-as-an-index-type)
-
-[Implementation of the zip fn](https://stackoverflow.com/a/70711258)
-
-[YT: (Ben Awad) - Generics](https://www.youtube.com/watch?v=nViEqpgwxHE)
-
-[Enums](https://www.digitalocean.com/community/tutorials/how-to-use-enums-in-typescript)
-
-[Obtain random enum](https://stackoverflow.com/questions/44230998/how-to-get-a-random-enum-in-typescript)
-
-[Named parameters](https://betterprogramming.pub/named-parameters-in-typescript-e32c763d2b2e)
-
-[Constructor overloading](https://stackoverflow.com/questions/12702548/constructor-overload-in-typescript)
-
-[Medium.com: interfaces vs types](https://medium.com/@martin_hotell/interface-vs-type-alias-in-typescript-2-7-2a8f1777af4c)
-
-[SO: interfaces vs types](https://stackoverflow.com/questions/37233735/interfaces-vs-types-in-typescript)
-
-[SO: factory pattern w/ parameters](https://stackoverflow.com/questions/70082173/typescript-factory-pattern-with-parameters)
-
-[Medium.com: factory pattern w/ parameters](https://medium.com/codex/factory-pattern-type-script-implementation-with-type-map-ea422f38862)
-
-[Typing a generic function example](https://www.educative.io/courses/advanced-typescript-masterclass/3jn8g29nZ7M)
-
-[String to enum](https://stackoverflow.com/questions/17380845/how-do-i-convert-a-string-to-enum-in-typescript)
-
-[Spread functionality](https://www.typescriptlang.org/docs/handbook/variable-declarations.html#spread)
 
 
 

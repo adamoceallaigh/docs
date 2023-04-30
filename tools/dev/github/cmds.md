@@ -1,6 +1,6 @@
 # Github Commands
 
-> List of common useful Github Commands to use 
+> List of common useful Github Commands to use
 
 `git init` : Initialize git in the current working directory|folder
 
@@ -25,7 +25,7 @@
 
 `git reset HEAD~` : Resets the local branch state back to its original state (1 commit back) as indicated by remote
 
-`git reset HEAD~?` : Resets the local branch state back a certain number of commits 
+`git reset HEAD~?` : Resets the local branch state back a certain number of commits
 
 `git remote prune origin` : Deletes branches in local repository already deleted in remote repository
 
@@ -39,7 +39,7 @@
 
 `git apply stash` : Applies the last saved stash to the given workspace on the given local branch
 
-`git clean -n` : Performs a dry run of the clean command given to Git CLI 
+`git clean -n` : Performs a dry run of the clean command given to Git CLI
 
 `git checkout ?` : Moves the current HEAD to the specified branch, where ? is the branch
 
@@ -55,10 +55,17 @@
 
 `git add .; git commit --amend` : Usually utilized when small update is made after the commit has been committed. Useful to add aforementioned smaller change to the commit just gone
 
+`git remote add upstream https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git`: Assigns the keyword `upstream` to the original remote repository when original is forked and `origin` keyword is assigned to child remote repository
+
+`git fetch upstream`: Pulls the branches associated w/ the parent repo repository into your local cloned from (child|forked) repository
+
+`git merge upstream/master master`: merges parent remote repo `master` into (child|forked) remote repo `master`
+
+`git rebase upstream/master`: rebase your local branch w/ parent remote repo `master`
+
+`git checkout {OG_BRANCH - eg. origin/master} -- {TARGET_FILE}`: Pulls target file from original branch (eg.master) and discards the changes made to current branches file.
+
+> NOTE: You must be on the target branch to run command above for desired changes to be discarded
 
 
-# Docs
 
-[Freecodecamp: git merge and rebase](https://www.freecodecamp.org/news/the-ultimate-guide-to-git-merge-and-git-rebase/)
-
-[SO: reverse applying a stash](https://stackoverflow.com/questions/1020132/how-to-reverse-apply-a-stash)
